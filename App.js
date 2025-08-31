@@ -23,6 +23,7 @@ export default function App() {
       name: "María Torres",
       age: 28,
       photo: "https://cdn-icons-png.flaticon.com/512/3135/3135823.png",
+      role: "Programadora"
     },
     {
       name: "José Ramírez",
